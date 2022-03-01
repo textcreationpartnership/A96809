@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter intercepted (at sea) by Captaine Moulton, and sent by the Admiralls to the councell of state. Written from Parson Wolby, directed to Mr. Edward Ball, the Princes agent, with Prince Rupert at Kingsale in Ireland. Wherein is discovered a most fearfull and sad designe against the City of London, and such who have estates in England. A new platforme of the Catholicke religion, intended for England. Severall transactions of the Prince's Navy. And the Governour of the island of Scilly. And an account of the Governours letter (who is salne sick) to the Prince. Parson VVolby his desires to Prince Rupert, and his transactions with Sir John Moene, Sir John Beak, Doctor Wats, and Mr. Ball. And some transactions at sea, between 500 of the King of Spain his souldiers at sea, and the Princes Navy. And severall fights at sea, with other considerable passages of the Princes Navy. May 7. 1649. To the end that all who are faithfull to this nation, may unanimously unite, against the common enemy; whose bitternesse doth appeare against us, both in words, and action, in this letter. Therefore I say imprimatur: Theodore Jennings.</title>
+            <author>Wolley, Edward, 1603-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96809</idno>
+            <idno type="STC">Wing W3265A</idno>
+            <idno type="STC">Thomason E554_2</idno>
+            <idno type="STC">ESTC R205756</idno>
+            <idno type="EEBO-CITATION">99865040</idno>
+            <idno type="PROQUEST">99865040</idno>
+            <idno type="VID">117275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117275)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E554[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter intercepted (at sea) by Captaine Moulton, and sent by the Admiralls to the councell of state. Written from Parson Wolby, directed to Mr. Edward Ball, the Princes agent, with Prince Rupert at Kingsale in Ireland. Wherein is discovered a most fearfull and sad designe against the City of London, and such who have estates in England. A new platforme of the Catholicke religion, intended for England. Severall transactions of the Prince's Navy. And the Governour of the island of Scilly. And an account of the Governours letter (who is salne sick) to the Prince. Parson VVolby his desires to Prince Rupert, and his transactions with Sir John Moene, Sir John Beak, Doctor Wats, and Mr. Ball. And some transactions at sea, between 500 of the King of Spain his souldiers at sea, and the Princes Navy. And severall fights at sea, with other considerable passages of the Princes Navy. May 7. 1649. To the end that all who are faithfull to this nation, may unanimously unite, against the common enemy; whose bitternesse doth appeare against us, both in words, and action, in this letter. Therefore I say imprimatur: Theodore Jennings.</title>
+                  <author>Wolley, Edward, 1603-1684.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, in Smithfield, neer the Queens-head Tavern,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  Economic conditions --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117275:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>A LETTER Intercepted (at SEA) by Captaine <hi>Moulton,</hi> and ſent by the Admiralls to the Councell of State. Written from Parſon <hi>Wolby,</hi> Directed to Mr. <hi>Edward Ball,</hi> the Princes Agent, with Prince <hi>Rupert</hi> at <hi>Kingſale</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>Wherein is diſcovered a moſt fearfull and ſad deſigne <hi>a<g ref="char:EOLhyphen"/>gainſt the City of</hi> London, <hi>and ſuch who have</hi> Eſtates in <hi>ENGLAND.</hi>
+            </p>
+            <p>A New Platforme of the Catholicke Religion, intended for <hi>England.</hi> Severall tranſactions of the Princes Navy. And the Governour of the Iſland of <hi>Scilly.</hi> And an account of the Governours Letter (who is falne ſick) to the Prince.</p>
+            <p>Parſon VVOLBY his deſires to Prince <hi>Rupert,</hi> and his tranſactions with Sir <hi>John Moene,</hi> Sir <hi>John Beak,</hi> Doctor <hi>Wats,</hi> and Mr. <hi>Ball.</hi>
+            </p>
+            <p>And ſome tranſactions at Sea, between 500 of the King of <hi>Spain</hi> his ſouldiers at Sea, and the Princes Navy.</p>
+            <p>And ſeverall fights at Sea, with other conſiderable Paſſa<g ref="char:EOLhyphen"/>ges of the Princes NAVY.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>May 7. 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>TO the end that all who are faithfull to this Nation, may unanimouſly unite, againſt the common Enemy: whoſe bitterneſſe doth appeare a<g ref="char:EOLhyphen"/>gainſt us, both in words, and action, in this Letter. Therefore<lb/>
+I ſay <hi>Imprimatur.</hi>
+                        </p>
+                        <closer>
+                           <signed>Theodore Jennings.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON Printed by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117275:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="1" facs="tcp:117275:2"/>
+            <!-- PDF PAGE 104 -->
+            <head>FOR My honoured Friend Mr. <hi>John Ball</hi> at <hi>Kingſale</hi> in <hi>Irelamd,</hi> theſe.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received your laſt by honeſt Captaine <hi>Allen,</hi> who was as welcome to theſe Jſles as poſſible we could make him, and I hope His Majeſties Navy will have good cauſe to reſort here often, and make themſelves and us fortunate: and in a ſhort time make His Majeſtie rich and formidable, a ſmall brother of <hi>Virginia</hi> did yeſterday faile near ſome outward rockes called the Biſhop and his Clerkes (which often prove more fatall then the Popes Bull) and being diſcover<g ref="char:EOLhyphen"/>ed from the top of the Caſtle; a ſignal was given and a Boate ſent to the <hi>Roe Bucke;</hi> who was as nimble as a Hawke, and preſently drew up his Anchour and went to faile: The <hi>Charles</hi> was in chaſe two houres before of another great ſhip, who was paſſing 500 Souldiers for the King of <hi>Spaine</hi> to <hi>Oaſtend,</hi> but that ſervice underſtood, Captaine <hi>Allen</hi> diſmiſſed her
+<pb n="2" facs="tcp:117275:3"/>
+               <!-- PDF PAGE 105 -->for the King of <hi>Spaines</hi> ſake, and the <hi>Charles</hi> and the <hi>Roe Bucke</hi> made towards the <hi>Virginia</hi> Merchant, who yeelded ſpeedily without ſo much as one verily, or in<g ref="char:EOLhyphen"/>deed, and now you ſee in a ſecond experience how conſiderable this eye of <hi>England</hi> is, which if tender<g ref="char:EOLhyphen"/>ly regarded may make <hi>London</hi> and all <hi>England</hi> weep, and command their wealth, who at firſt fomented, and as yet maintained this blacke treaſon, murther and Rebellion. To obſerve another bleſſing upon the Navy this day, by an increaſe upon Sir <hi>Hen. Stred<g ref="char:EOLhyphen"/>ling,</hi> and another addition of fortune, who though he was carried Eaſterly beſides the Iſlands, yet hath gained even his miſtake of the Iſles, and hath taken another brother of <hi>Virginia,</hi> who is laden with To<g ref="char:EOLhyphen"/>bacco, and ſome Beaver-skins, thus God gives new additions of ſtrength and victory daily for His Maje<g ref="char:EOLhyphen"/>ſties ſervice, and I hope His Majeſty, will thrive to a very great condition in ſhort time, now as the Navy groweth daily moſt happily, ſo do theſe Iſlands, by Prince <hi>Ruperts</hi> great care and favour) thrive into a greater ſecurity, and our noble Governour is more fortunate of nothing, then in his higheſt thoughts of this place, not doubting but theſe Iſles will prove a<g ref="char:EOLhyphen"/>nother treaſure in ſhort time by Gods bleſſing, and the mutuall induſtry of the Prince and our Govern<g ref="char:EOLhyphen"/>or. And at preſent the hot diſtempered luxury of ſome giddy diſcontented Iſlanders and others (too apt to mutiny) is allaied by the arrivall of thoſe Officers, and Souldiers; which his highneſſe hath ſo carefully ſent to the Iſles, and now at laſt you will, <hi>ex confu<g ref="char:EOLhyphen"/>ſione naſcetur ordo,</hi> that all things will march on toge<g ref="char:EOLhyphen"/>ther with order and power, yet there is a preſent in<g ref="char:EOLhyphen"/>terruption to the Governours intendments, occaſioned
+<pb n="3" facs="tcp:117275:3"/>
+               <!-- PDF PAGE 105 -->by a violent f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>av<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r (accompanied with a double ter<g ref="char:EOLhyphen"/>tian) which hath moſt miſerably afflicted the good Governour theſe 14 da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es together, which diſeaſe hath been ſo ſharpe and fierce, that it hath much weak<g ref="char:EOLhyphen"/>ned him, yet even in this extreamity with great peril to his health; and in the intermiſſion of his fit) he hath this hight adventured to ſit up and write to the Princes highnes and if the P<g ref="char:punc">▪</g> diſcerve any now, a compoſure in his letter the Govern. is confident of his pardon, who rather chuſeth to adventure the hazzard of his health, then his reſpect and civillity towards his Highneſſe.</p>
+            <p>Among many other of the Governours friends, I am appointed by him to give you ſpeciall thankes for the particular care &amp; ſolicitude (on al occaſion for the Iſles, &amp; the Gover. acknowledgeth freely how every ex<g ref="char:EOLhyphen"/>ceeding much he is oblieged to you for your kindnes and tokens, of Orrenges, Olives and other rarities; and he bids me aſſure you, that he will watch all opportunities to requite and gratifie your love, now deſiring your excuſe that hee cannot returne you at preſent ſome remembrance of his love ſuitable to his mind. Yet I am to whiſper into your care that Cap<g ref="char:EOLhyphen"/>taine <hi>Allen</hi> hath had a better, more eaſie, and kind diſpatch in his buſineſſe, for your ſake, and Sir <hi>John Moens,</hi> on whoſe trinall friendſhip he hath ſo great value and eſtimation, that he ſtudieth all wayes and meanes how to ſerve perſons of ſuch honor and truſt, and now. I am to acquaint you with our conditi<g ref="char:EOLhyphen"/>on concerning ammunition and proviſions, which by reaſon of the daily addition of Souldiers, and ſtrangers cannot but waſt; and therefore you will do His Majeſty very good ſervice to put the Prince in mind of ſending of them on all opportunites to the
+<pb n="2" facs="tcp:117275:4"/>
+               <!-- PDF PAGE 106 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:117275:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 106 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:117275:5"/>
+               <!-- PDF PAGE 107 -->Iſland, eſpecially, Salt, Powder, and Corne, (for whatſoever Captaine <hi>Cornelius</hi> hath befallen thoſe things are in an hourely conſumption, and their ſup<g ref="char:EOLhyphen"/>ply ſo very neceſſary, that there is not above three months proviſions of Corne, and the way to the Market is very dangerous, and therfore the Governor deſires you to preſent to the Prince, that His High<g ref="char:EOLhyphen"/>neſſe will pleaſe to have ſuch thoughts of the Maga<g ref="char:EOLhyphen"/>zeens and ſtores here, as to advance them to a years proviſion at leaſt, and I am bold to tell you that the advantage will prove as conſiderable to the Navy as to the Iſland, which on all occaſions cannot reach o<g ref="char:EOLhyphen"/>ther Iſlands, and therefore muſt ſometime be forced to ſeek them here (as moſt probable the ſureſt and fit<g ref="char:EOLhyphen"/>teſt place.)</p>
+            <p>I am to acquaint you that ſalt of all other commo<g ref="char:EOLhyphen"/>dities, and powder are to be ſent, ſalt for to ſeaſon the fiſh that is taken round the Iſland, &amp; in particular, here is a good <hi>Ling</hi> caught as any in the Ocean, and if there were an 100 Fiſher-men, and boates, and nets, here is work and wealth for them all, and there<g ref="char:EOLhyphen"/>fore the Governor very much deſires a very great pro<g ref="char:EOLhyphen"/>portion of ſalt and powder ſtores if poſſible. I muſt mind you likewiſe of Coale, Timber, hempe to make Coards, Ropes, and Cables, here is a moſt excel<g ref="char:EOLhyphen"/>lent Roper, who hath skill for making twiſted ſilke to make Cables for the Kings beſt ſhips. I muſt a<g ref="char:EOLhyphen"/>gaine remember you of 500 paire of ſhooes and Sto<g ref="char:EOLhyphen"/>kins, and if you dare take a Prieſts word and no Mer<g ref="char:EOLhyphen"/>chant, you ſhall have as the Governour aſſureth you a very good returne, the Fleming with us, I doubt not, before this is adjudged a prize, and there breaks out here a clearer light to that purpoſe, by reaſon the
+<pb n="5" facs="tcp:117275:5"/>
+               <!-- PDF PAGE 107 -->Scrivenor is found out here to be but purſer in a guiſe, and an Italian in language, but a Fleming by birth, and doubtleſſe the nephew of <hi>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnor Vandermarch,</hi> who liveth in <hi>London</hi> nere Cheape ſide, ſo that bu<g ref="char:EOLhyphen"/>ſineſſe, I hope will prove of good conſequence to His Majeſties ſervice. And now from theſe more pub<g ref="char:EOLhyphen"/>licke affaires, let me acquaint you that the Church of <hi>England</hi> is practiſed here according to the Patterne at the Kings Chappell as nere as poſſible, and as eſta<g ref="char:EOLhyphen"/>bliſht by Law, and the Governour is ſo carefull of Gods honour, that though Papiſts or Sectaries may Land or Trade, or live here, yet none ſhall dare to defame or diſturbe the Catholicke ſervice of God, and deſire you and your fellow Commiſſioners on all faire occaſions to ſupply this place with bookes, if they come to be diſpoſſeſſed, for wee would if poſſible, have learning here, and a publick Library; to maintain Gods worſhip and ſer<g ref="char:EOLhyphen"/>vice.</p>
+            <p>And if you can tune the Organs for any o<g ref="char:EOLhyphen"/>ther place more propperly, in the name of God uſe your diſcretion, yet if you can bee an aſſiſtant to make Gods ſervice more ſo<g ref="char:EOLhyphen"/>lemne here, you will ſhew your ſelfe a good ſon of the Church of England.</p>
+            <p>I am bold to acquaint you that I have (with the Governours good leave) prepared a little Cellar, which will hold ſome three Butts of
+<pb n="6" facs="tcp:117275:6"/>
+               <!-- PDF PAGE 108 -->Canary and ſome leſſer knacks as Ancho<g ref="char:EOLhyphen"/>vies, Olives and ſuch collation ſtuffe, and I hope you will ſeaſon it with three choyce pipes of the pureſt Canary, that the Gover<g ref="char:EOLhyphen"/>nour may entertaine you more pleaſantly with an Iſland Bottle, and now I muſt deſire you to remember mee moſt reſpectively to Sir <hi>John Moens, Sir John Beale,</hi> and Doctor <hi>Wats,</hi> and to continue in your good opini<g ref="char:EOLhyphen"/>on, the affection, and reſolved ſervice of</p>
+            <closer>
+               <signed>Your aſſured loving friend and ſervant, EDWARD WOLBY.</signed>
+               <dateline>Sorling <date>Aprill 15. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
